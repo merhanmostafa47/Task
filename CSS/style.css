@@ -1,8 +1,13 @@
 
+
 h1{
     color: cadetblue;
     font-family: 'Courier New', Courier, monospace;
 }
 
-
+h2{
+    color: coral;
+    font-style: italic;
+    font-size: 15px;
+}
 
