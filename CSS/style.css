@@ -1,13 +1,15 @@
 
 
+
 h1{
     color: cadetblue;
     font-family: 'Courier New', Courier, monospace;
 }
 
 h2{
-    color: coral;
+    color: rgb(255, 80, 211);
     font-style: italic;
     font-size: 15px;
 }
+
 
